@@ -1,0 +1,1 @@
+A project website created while learning material on FreeCodeCamp. The webpage will display a randomly chosen quote in front of a randomly chosen background photo.
